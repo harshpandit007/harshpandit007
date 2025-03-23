@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 🌩️ Working on making the cloud more resilient and fault-tolerant.
 
 🚀 Always learning new tools, technologies, and best practices to improve systems and operations.
-💬 Feel free to check out my repos and connect with me on [LinkedIn]!
+💬 Feel free to check out my repos and connect with me on LinkedIn.
 
 Let's build something amazing! ✨
