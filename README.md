@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔧 Site Reliability Engineer | 💻 Tech Enthusiast | 🌐 Cloud & Infrastructure Expert
+🔧 I'm a Site Reliability Engineer | 💻 Tech Enthusiast | 🌐 Cloud & Infrastructure Expert
 
 🔍 Passionate about building scalable, reliable, and secure systems.
 ⚙️ Expertise in networking, distributed systems, automation, and cloud infrastructure.
